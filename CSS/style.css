@@ -1,0 +1,16 @@
+/* .welcome {
+  background-color: blue;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+} */
+
+div {
+  border: solid 1px;
+  display: inline;
+  height: 500px;
+}
+
+/*display-positon*/
